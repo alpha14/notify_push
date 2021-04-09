@@ -20,6 +20,7 @@ for updates on their own, although these can be run on a much lower frequency.
 ## Requirements
 
 This app requires a redis server to be setup and for nextcloud to be configured to use the redis server.
+The package php-redis also needs to be installed.
 
 ## Quick setup
 
